@@ -6,12 +6,12 @@ Task 2 — Business Data Analysis and Visualization
 Task 3 — Housing Price Prediction
 
 Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
 Jupyter Notebook
 
 Academic Details
